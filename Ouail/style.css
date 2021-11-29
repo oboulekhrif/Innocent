@@ -1,0 +1,38 @@
+*{
+    overflow: hidden;
+}
+.imageinnocent{
+    margin-right: 1175px ;
+}
+.nav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+  }
+  .nav a {
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 70px 25px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .nav a:hover {
+    background-color: #9FE2BF;
+    color: black;
+  }
+  
+  .nav a.navbar {
+    background-color: #9FE2BF;
+    color: white;
+  }
+  .jumbotron{
+      background-color: rgb(255, 255, 255);
+  }
+  .imagebg{
+    width: 1925px;
+    height: 700px;
+    margin-top: -65px;
+    margin-left: -32px;
+}
+  
