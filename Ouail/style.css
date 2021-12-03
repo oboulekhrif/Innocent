@@ -19,13 +19,12 @@
   }
   
   .nav a:hover {
-    background-color: #9FE2BF;
-    color: black;
+    color: #9FE2BF;
   }
   
   .nav a.navbar {
     background-color: #9FE2BF;
-    color: white;
+    color: #9FE2BF;
     
   }
   .jumbotron{
@@ -37,4 +36,24 @@
     margin-top: -65px;
     margin-left: -32px;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
   
+}
+.bi-instagram{
+  color: rgb(255, 0, 255);
+  position: fixed;
+  margin-bottom: 340px;
+}
+.black{
+  background-color: #16eb21;
+  color: rgb(7, 27, 207);
+}
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
